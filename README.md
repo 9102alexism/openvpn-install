@@ -1,4 +1,4 @@
-# openssl.cnf error
+### openssl.cnf error
 [Fix](https://www.linux.org/threads/easyrsa-cant-generate-ca.19105)
 
 # openvpn-install
